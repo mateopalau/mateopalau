@@ -2,17 +2,18 @@
 
 Founder of **Nova Labs Paraguay**, building AI systems, automation workflows and educational technology for companies and institutions.
 
-- Building **Arandu IA**, an AI-powered educational platform for institutions.
-- Exploring **AI agents, RAG, internal operating systems and workflow automation**.
-- Open to collaborate on **AI, automation, edtech and applied software infrastructure**.
+- Building **Arandu IA**, an AI-powered educational platform for institutions.<br>
+- Exploring **AI agents, RAG, internal operating systems and workflow automation**.<br>
+- Open to collaborate on **AI, automation, edtech and applied software infrastructure**.<br>
 - Ask me about **Next.js, Supabase, LLMs, automation systems and educational AI**.
-  
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mateopalau)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contacto@novalabs.com.py)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://www.novalabs.com.py)
 
 # 💻 Tech Stack:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,6 +42,6 @@ Founder of **Nova Labs Paraguay**, building AI systems, automation workflows and
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mateopalau&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://streak-stats.demolab.com/?user=mateopalau&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateopalau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateopalau&theme=dark&hide_border=false&layout=compact)
