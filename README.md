@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Founder of **Nova Labs**, building AI systems, automation workflows and educational technology from Paraguay.
+Founder of **Nova Labs Paraguay**, building AI systems, automation workflows and educational technology for companies and institutions.
 
 - Building **Arandu IA**, an AI-powered educational platform for institutions.
 - Exploring **AI agents, RAG, internal operating systems and workflow automation**.
