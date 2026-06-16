@@ -1,10 +1,12 @@
-# 💫 About Me:
-- I’m currently working on **Nova Labs**, building AI systems, automation and software infrastructure for companies and institutions.<br>
-- I’m currently building **Arandu IA**, an AI-powered educational platform for schools and academic support workflows.<br>
-- I’m exploring **AI agents, RAG, internal operating systems and workflow automation**.<br>
-- I’m looking to collaborate on **AI, automation, edtech and applied software infrastructure projects**.<br>
-- Ask me about **Next.js, Supabase, LLMs, automation systems and educational AI**.
+# 💫 About Me
 
+Founder of **Nova Labs**, building AI systems, automation workflows and educational technology from Paraguay.
+
+- Building **Arandu IA**, an AI-powered educational platform for institutions.
+- Exploring **AI agents, RAG, internal operating systems and workflow automation**.
+- Open to collaborate on **AI, automation, edtech and applied software infrastructure**.
+- Ask me about **Next.js, Supabase, LLMs, automation systems and educational AI**.
+  
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mateopalau)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contacto@novalabs.com.py)
