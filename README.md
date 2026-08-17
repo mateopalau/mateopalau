@@ -46,3 +46,5 @@ Building AI systems, automation workflows and educational technology for compani
 
 ![](https://streak-stats.demolab.com/?user=mateopalau&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mateopalau&theme=dark&hide_border=false&layout=compact)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/mateopalau/svg?template=minimal&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/mateopalau)
