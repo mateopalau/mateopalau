@@ -1,12 +1,49 @@
-# 💫 About Me
+# About Me
 
-Founder of **Nova Labs Paraguay**.  
-Building AI systems, automation workflows and educational technology for companies and institutions.
+I'm **Mateo Palau**, an AI engineer, builder, and founder of **[Nova Labs Paraguay](https://www.novalabs.com.py/)**.
 
-- Building **Arandu IA**, an AI-powered educational platform for institutions.<br>
-- Exploring **AI agents, RAG, internal operating systems and workflow automation**.<br>
-- Open to collaborate on **AI, automation, edtech and applied software infrastructure**.<br>
-- Ask me about **Next.js, Supabase, LLMs, automation systems and educational AI**.
+I build **AI systems, automation, SaaS products, and production software** focused on solving real-world problems.
+
+## What I Do
+
+- Founder & CEO at **Nova Labs Paraguay**
+- Build **AI-native products and infrastructure**
+- Develop **AI agents, automation systems, SaaS platforms, and full-stack applications**
+- Work with **Python, TypeScript, Next.js, PostgreSQL, and modern LLM stacks**
+- Explore **agentic systems, reasoning, AI infrastructure, and applied machine learning**
+- Focus on turning ideas into **real, production-ready products**
+
+## Currently Building
+
+### [Nova Labs Paraguay](https://www.novalabs.com.py/)
+
+AI systems, automation, and B2B software.
+
+### [Nova Radar](https://radar.novalabs.com.py/)
+
+Website intelligence platform for automated technical analysis, scoring, and actionable findings.
+
+## Interests
+
+- AI Engineering
+- Agentic Systems
+- LLMs & Reasoning
+- AI Infrastructure
+- Automation
+- SaaS
+- Full-Stack Engineering
+- Applied Machine Learning
+
+## Principles
+
+> **Build > talk.**  
+> **Systems > demos.**  
+> **Evidence > hype.**  
+> **Execution > ideas.**
+
+I'm especially interested in building software where **AI is part of the core architecture**, not just an API added on top.
+
+**Based in Paraguay. Building for a global market.**
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mateopalau)
