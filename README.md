@@ -84,4 +84,4 @@ I'm especially interested in building software where **AI is part of the core ar
 ![](https://github-stats-extended.vercel.app/api?username=mateopalau&show_icons=true&include_all_commits=true&theme=dark)
 ![](https://github-stats-extended.vercel.app/api/top-langs?username=mateopalau&layout=donut&langs_count=4&theme=dark)
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/mateopalau/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/mateopalau)
+[![Tokscale Stats](https://tokscale.ai/api/embed/mateopalau/svg?color=green&graph=1&rank=percent&tokens=full&cost=compact)](https://tokscale.ai/u/mateopalau)
