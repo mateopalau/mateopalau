@@ -44,7 +44,7 @@ Building AI systems, automation workflows and educational technology for compani
 
 # 📊 GitHub Stats:
 
-![]([https://streak-stats.demolab.com/?user=mateopalau&theme=dark&hide_border=false](https://github-stats-extended.vercel.app/api?username=mateopalau&show_icons=true&include_all_commits=true&theme=dark))
+![](https://github-stats-extended.vercel.app/api?username=mateopalau&show_icons=true&include_all_commits=true&theme=dark)
 ![](https://github-stats-extended.vercel.app/api/top-langs?username=mateopalau&layout=donut&langs_count=4&theme=dark)
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/mateopalau/svg?template=minimal&color=green&tokens=compact&cost=compact)](https://tokscale.ai/u/mateopalau)
