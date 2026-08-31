@@ -19,10 +19,6 @@ I build **AI systems, automation, SaaS products, and production software** focus
 
 AI systems, automation, and B2B software.
 
-### [Nova Radar](https://radar.novalabs.com.py/)
-
-Website intelligence platform for automated technical analysis, scoring, and actionable findings.
-
 ## Interests
 
 - AI Engineering
